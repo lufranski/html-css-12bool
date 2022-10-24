@@ -3,3 +3,12 @@
     border: 1px solid greenyellow;
     min-height: 50px;    
 } 
+
+.green {
+    background-color: greenyellow;
+    border: 1px solid darkblue;
+}
+
+.nested {
+    padding: 1%;
+}

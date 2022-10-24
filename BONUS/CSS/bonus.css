@@ -1,0 +1,28 @@
+/* DEBUG */
+[class*="col"] {
+    width: 10px;
+    height: 10px;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.grass {
+    background-color: #04c414;
+}
+
+.grave {
+    background-color: #a5a8a5;
+}
+
+.dark {
+    background-color: #2f302f;
+}
+
+.text {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+}
